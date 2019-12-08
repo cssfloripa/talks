@@ -1,6 +1,6 @@
 <h1 align=center>
   <a href="http://cssfloripa.github.io" title="CSS Floripa">
-    <img alt="CSS Floripa Logo" src="" width="250" height="240"/>
+    <img alt="CSS Floripa Logo" src="https://cssfloripa.github.io/img/logo--blue.svg" width="250" height="auto"/>
     <br>
   </a>
   Talks - CSS Floripa Meetup
